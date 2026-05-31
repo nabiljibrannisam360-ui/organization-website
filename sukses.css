@@ -1,0 +1,17 @@
+.success-center {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Segoe UI", sans-serif;
+}
+
+.success-center h1 {
+    color: #22c55e;
+    font-size: 48px;
+}
+
+.success-center p {
+    color: #4b5563;
+}
